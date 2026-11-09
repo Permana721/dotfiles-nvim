@@ -1,0 +1,15 @@
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+.undo/
+.backup/
+run_history.json
+cmp_mru_mfu.json
+*.vim
+Session.vim
+.persistence/
+ide_db_connections.json
+.env
+wakapi.key
